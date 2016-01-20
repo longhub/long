@@ -1,7 +1,7 @@
 baseurl: "/longblog"
 markdown: redcarpet
 redcarpet:
-    extensions: [tables]
+extensions: [tables]
 safe: false
 pygments: true
 excerpt_separator: "\n\n\n"

@@ -132,7 +132,7 @@ li {
 
 .post-info ol li.post-time {
     background:
-        url('assets/images/glyphicons_045_calendar.png')
+        url('/assets/images/glyphicons_045_calendar.png')
         no-repeat
         left
         center;
@@ -145,7 +145,7 @@ li {
 
 .archive-list li {
     background:
-        url('assets/images/glyphicons_045_calendar.png')
+        url('/assets/images/glyphicons_045_calendar.png')
         no-repeat
         left
         center;
@@ -156,7 +156,7 @@ li {
 
 .post-info ol li.post-category {
     background:
-        url('assets/images/glyphicons_440_folder_closed.png')
+        url('/assets/images/glyphicons_440_folder_closed.png')
         no-repeat
         left
         center;
@@ -165,7 +165,7 @@ li {
 
 .category-list li {
     background:
-        url('assets/images/glyphicons_440_folder_closed.png')
+        url('/assets/images/glyphicons_440_folder_closed.png')
         no-repeat
         left
         center;
